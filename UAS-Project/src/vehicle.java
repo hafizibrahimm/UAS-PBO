@@ -16,6 +16,7 @@ interface Tambah {
 interface Tambah_Bike {
     void tambahDataBike();
 }
+
 interface Tambah_Car {
     void tambahDataCar();
 }
